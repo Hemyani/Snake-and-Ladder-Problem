@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Snake_and_Ladder_Problem
 {
-    internal class UC4
+    internal class UC5
     {
-        public static void Repeat()
+        public static void WinPosition()
         {
             int position = 0;
             int current_position = 0;
@@ -61,3 +61,4 @@ namespace Snake_and_Ladder_Problem
         }
     }
 }
+       

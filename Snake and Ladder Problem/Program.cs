@@ -7,7 +7,7 @@ namespace Snake_And_Ladder_Problem
     {
         static void Main(string[] args)
         {
-            UC4.Repeat();
+            UC5.WinPosition();
             Console.ReadLine();
         }
     }

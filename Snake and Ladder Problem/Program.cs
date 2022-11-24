@@ -9,24 +9,6 @@ namespace Snake_And_Ladder_Problem
         {
             UC1.Position();
             Console.ReadLine();
-
-            //UC2.rollsthedie();
-            //Console.ReadLine();
-
-            //UC3.CheckOption();
-            //Console.ReadLine();
-
-            //UC4.Repeat();
-            //Console.ReadLine();
-
-            //UC5.WinPosition();
-            //Console.ReadLine();
-
-            //UC6.Report();
-            //Console.ReadLine();
-
-            //UC7.PlayerWon();
-            //Console.ReadLine();
         }
     }
 }

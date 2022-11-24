@@ -7,7 +7,7 @@ namespace Snake_And_Ladder_Problem
     {
         static void Main(string[] args)
         {
-            UC3.CheckOption();
+            UC4.Repeat();
             Console.ReadLine();
         }
     }
